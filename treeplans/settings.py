@@ -25,7 +25,7 @@ SECRET_KEY = '5e!0yx4u4#d4vw*dk=m3pn42ele@%bf5xn1$5sg(96o&oetr(t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [u'treeplan.pythonanywhere.com']
 
 
 # Application definition
